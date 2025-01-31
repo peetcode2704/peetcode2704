@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Hoang</h1>
-<h3 align="center">A Computer Science Student from Belmont University with a passion of algorithm development</h3>
+<h3 align="center">A Computer Science Student from Belmont University </h3>
 
 - 🔭 Incoming SWE intern @ **HCA Healthcare**
 
