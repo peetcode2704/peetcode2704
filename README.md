@@ -3,7 +3,7 @@
 
 - 🔭 SWE intern @ **HCA Healthcare**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I've finished learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **peterhoang2704@gmail.com**
 
