@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Peter Hoang</h1>
 <h3 align="center">A Computer Science Student from Belmont University </h3>
 
-- 🔭 Incoming SWE intern @ **HCA Healthcare**
+- 🔭 SWE intern @ **HCA Healthcare**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **peterhoang2704@gmail.com**
 
 - ⚡ Fun fact **I'm from Vietnam 🇻🇳**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
